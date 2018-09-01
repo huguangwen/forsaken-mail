@@ -2,7 +2,7 @@ Forsaken-Mail
 ==============
 A self-hosted disposable mail service.
 
-[Online Demo](https://tmp.yooooo.us)
+Used at https://mjjmail.me
 
 ### Installation
 
