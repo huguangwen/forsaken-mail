@@ -4,6 +4,8 @@ A self-hosted disposable mail service.
 
 Used at https://mjjmail.me
 
+Simple instructions at https://softsoc.net/a/7/
+
 ### Installation
 
 #### Setting up your DNS correctly
